@@ -1,0 +1,9 @@
+{
+  "identifier": "com.mason.whiteboard",
+  "name": "Whiteboard",
+  "content_type": "SN|Component",
+  "area": "editor-editor",
+  "version": "1.0.0",
+  "description": "Pen-friendly whiteboard with shapes, symbols, smoothing and shape snapping.",
+  "url": "http://localhost:8001/index.html"
+}
